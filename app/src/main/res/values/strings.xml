@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReelLimiter</string>
+    <string name="service_description">ReelLimiter counts how many Instagram Reels and YouTube Shorts you watch and closes them when your daily limit is reached. It only looks at whether a Reels or Shorts screen is open. Nothing is read, stored or sent off your device.</string>
+</resources>
